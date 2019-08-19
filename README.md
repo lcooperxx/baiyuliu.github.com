@@ -1,19 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages,My name is liubaiyu,this is my blog.
 
 You can use the [editor on GitHub](https://github.com/lcooperxx/baiyuliu.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 个人主页
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a prograduate student from Beijing Institute of Technology,I am 23 years old.I like programming.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
